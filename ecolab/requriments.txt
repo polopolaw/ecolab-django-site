@@ -1,0 +1,2 @@
+https://wagtailmenus.readthedocs.io/en/stable/installation.html
+pip install ics
