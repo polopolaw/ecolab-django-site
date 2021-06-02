@@ -30,7 +30,7 @@ sqlparse==0.3.1
 TatSu==4.4.0
 typed-ast==1.4.1
 Unidecode==1.1.1
-urllib3==1.25.8
+urllib3==1.26.5
 uWSGI==2.0.18
 wagtail==2.8
 wagtail-django-recaptcha==1.0
